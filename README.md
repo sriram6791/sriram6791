@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sriram! 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science** student at **IIITDM Kancheepuram** majoring in **Artificial Intelligence**. 🚀 I'm driven by the limitless possibilities of AI and love exploring its horizons. 🌌
+Welcome to my GitHub profile! I'm a **Computer Science** student at **IIITDM Kancheepuram** majoring in **Artificial Intelligence**. 🚀 I'm driven by the limitless possibilities of AI and love exploring its horizons. 🌌
 
 ---
 
